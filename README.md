@@ -14,7 +14,7 @@ Download [Prism Launcher](https://prismlauncher.org/download/windows/) (Alternat
 
 Download [Java 21](https://www.oracle.com/java/technologies/javase/jdk21-archive-downloads.html) (This specific version and up Required!!)
 
-Download the [Modpack Here](https://github.com/Ranoreal/CreateEvolutionn/releases/tag/1)
+Download the [Modpack Here](https://github.com/Ranoreal/CreateEvolutionn/releases/tag/2)
 
 
 ![BadVan](https://media.sketchfab.com/models/633e6fcc7c714af3809141f71e8b0f58/thumbnails/73efc12bff73480e90082077146ef968/47a650932a7d40aeab0a99cc564947e7.jpeg)
